@@ -1,0 +1,14 @@
+version: '3.6'
+services:
+  urlshortening:
+    build: .
+    ports:
+     - "5000:5000"
+    environment:
+      GIN_MODE: 
+      GIN_HTTPS: 
+      GIN_ADDR:
+      GIN_PORT: 
+      LOG_LEVEL: 
+      GIN_CERT:
+      GIN_CERT_KEY:
