@@ -1,8 +1,6 @@
 # Boilerplate REST service using Gin web framework (golang)
 
-[![Go](https://github.com/lakhinsu/gin-boilerplate/actions/workflows/go.yml/badge.svg)](https://github.com/lakhinsu/gin-boilerplate/actions/workflows/go.yml) 
-
-[![Go Report Card](https://goreportcard.com/badge/github.com/lakhinsu/gin-boilerplate)](https://goreportcard.com/report/github.com/lakhinsu/gin-boilerplate)
+[![Go](https://github.com/lakhinsu/gin-boilerplate/actions/workflows/go.yml/badge.svg)](https://github.com/lakhinsu/gin-boilerplate/actions/workflows/go.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/lakhinsu/gin-boilerplate)](https://goreportcard.com/report/github.com/lakhinsu/gin-boilerplate)
 
 ## Introduction
 
