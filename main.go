@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/lakhinsu/gin-boilerplate/app"
-	"github.com/lakhinsu/gin-boilerplate/utils.go"
+	"github.com/lakhinsu/gin-boilerplate/utils"
 	"github.com/rs/zerolog/log"
 )
 
